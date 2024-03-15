@@ -5,9 +5,14 @@
 This project aims to create a platform for alumni to connect, engage, and support each other. It includes features such as profile management, notice board, alumni directory, chapter activities, spotlight, event gallery, mentorship, job listings, alumni ventures, and footer section.
 
 ## Home
-
+![Home Page](./alumni-images/home1.PNG)
+![Home Page](./alumni-images/home2.PNG)
+![Home Page](./alumni-images/home3.PNG)
 
 ## Profile Management
+![Profile](./alumni-images/profile-1.PNG)
+![Profile](./alumni-images/profile-2.PNG)
+![Profile](./alumni-images/experience.PNG)
 
 ### User View
 - Name
@@ -17,65 +22,38 @@ This project aims to create a platform for alumni to connect, engage, and suppor
 - Total Years of Experience
 - Skills
 
-### Admin View
-- All fields discussed
 
 ## Notice Board
 
 - Admin creates and manages polls and posts
 - Users can read, like, and comment
 
+![Notice Board](./alumni-images/notice-board.PNG)
+
 ## Alumni Directory
 
 - Search functionality by name, roll number, and batch number
+![Alumni Directory](./alumni-images/aum-directory.PNG)
+![Alumni Directory](./alumni-images/di-2.PNG)
 
 ## Chapters
 
 - Admin manages users in chapters based on activities
 - Includes chapter-based activities
 
-## Spotlight
+![Chapters](./alumni-images/chapters.PNG)
+![Chapter Detail](./alumni-images/chapter-detail.PNG)
+![Group Chate](./alumni-images/group-chat.PNG)
 
-- Admin handles spotlight feature
-- Users can read
+## Events
 
-## Event Gallery
-
-- Admin handles event gallery
-- Users can read
-
-## Interests
-
-- Feature needs to be explored further
-
-## Mentorship
-
-1. Mentors:
-   - Admin verifies and approves mentors
-2. Mentees:
-   - Users search for mentors and apply
-   - Mentors accept/reject mentees
-   - Mentees provide feedback and rating
+![Events](./alumni-images/event.PNG)
+![Event Detail](./alumni-images/event-detail.PNG)
 
 ## Jobs
 
-1. Job Creation:
-   - Any user/admin can create through provided form
-   - Admin approves/declines
-2. Job Application:
-   - Users notified based on experience category
+![Jobs](./alumni-images/jobs.PNG)
+![Jobs](./alumni-images/job-details.PNG)
 
-## Alumni Ventures
 
-- Needs further discussion or exploration with Pawan Pathak
 
-## Footer Section
-
-- Links linked to desired pages
-
-## Note
-
-Images will be added separately.
-
----
-Please ensure all features are implemented according to the specifications mentioned above. For any questions or clarifications, please contact [Pawan Pathak](mailto:pawanpathak@example.com).
