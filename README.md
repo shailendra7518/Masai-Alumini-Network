@@ -12,12 +12,11 @@ This project aims to create a platform for alumni to connect, engage, and suppor
 |---------------|------------------------------------|
 | Node.js       | JavaScript runtime environment     |
 | Express.js    | Web application framework for Node.js |
-| MongoDB       | NoSQL database for storing data    |
-| Mongoose      | MongoDB object modeling for Node.js |
+| Sequelize     | Promise-based Node.js ORM for MySQL, PostgreSQL, SQLite, etc. |
+| MySQL         | Relational database management system    |
 | JWT           | JSON Web Tokens for authentication |
-| Passport.js   | Authentication middleware for Node.js |
-| REST API      | Architecture for networked applications |
 | Socket.io     | Real-time communication library    |
+| REST API      | Architecture for networked applications |
 
 ### Frontend
 | Technology    | Description                        |
